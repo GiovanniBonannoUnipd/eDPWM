@@ -12,3 +12,11 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## REFERENCES
+All details about the eDPWM architecture are reported in 
+[1] Giovanni Bonanno,
+"An Innovative Digital Pulse Width Modulator and Its FPGA Implementation"
+in MDPI Electronics -- Special Issue "Emerging Applications of FPGAs and Reconfigurable Computing System".
+April 02, 2025.
+
